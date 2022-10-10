@@ -18,7 +18,7 @@ main {
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
-    background-color: rgb(228, 116, 228);
+    background-image: url(guessing.jpg);
     padding: 50px 10px;
     border-radius: 5px;
     display: grid;
@@ -32,7 +32,7 @@ h3 {
 }
 
 input[type="text"] {
-    width: 90px;
+    width: 200px;
     font-weight: 600px;
     color: #663399;
     padding: 20px 0;
